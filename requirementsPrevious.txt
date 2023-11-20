@@ -1,0 +1,16 @@
+torchvision==0.14.1
+flask==2.2.3
+flask-socketio
+simple-websocket
+flask_cors
+flaskwebgui==0.3.5
+pydantic
+rich
+loguru
+yacs
+diffusers==0.16.1
+
+piexif==1.1.3
+omegaconf
+controlnet-aux==0.0.3
+werkzeug==2.2.2
